@@ -5,7 +5,7 @@
     padding: 0.5rem;
     margin: 1rem 0;
     background-color: #f1dddd;
-    height: 80px;
+    height: 120px;
 }
 
 .expense-item__description {
@@ -33,7 +33,7 @@
     font-weight: bold;
     color: white;
     background-color: #fcab41;
-    border: 0.5px solid white;
+    border: 0.px solid white;
     padding: 0.5rem;
     border-radius: 60px;
 }
@@ -51,6 +51,7 @@
         align-items: center;
         justify-content: flex-start;
         flex: 1;
+        font-size: 2.0rem;
     }
 
     .expense-item__description h2 {
